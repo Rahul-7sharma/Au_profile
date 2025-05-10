@@ -1,7 +1,9 @@
+<pre>
 # Au_profile
 It includes my personal information
+   
 Personal info:-
-
+   
    Name : Rahul sharma
    Degree: Bachelor of computer application(Bca) (2022-2025)
    University : University of engineering and management , jaipur
@@ -11,6 +13,7 @@ Personal info:-
    Github:https://github.com/Rahul-7sharma
 
 Technical skills:
+   
  * languages: python, java,JavaScript,Html,Css
  * Object Orinted programming
  * Tools : git 
@@ -18,8 +21,6 @@ Technical skills:
 Projects: 1. Anti spoof detection using hybernet,
           2. voice assistant using React.js
 
-Certification : 1. machine Learning Foundation    - (Linkedin learning
+Certification : 1. machine Learning Foundation  - (Linkedin learning)
                 2. Employability skill job ready virtual internship- EduSkills
-        
-
-         
+</pre>
